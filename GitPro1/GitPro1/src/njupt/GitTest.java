@@ -6,6 +6,7 @@ public class GitTest {
 		// TODO Auto-generated method stub
 		
 	System.out.println("This is1  a git test");
+	System.out.println("This is1  a git test AND 2018-08-29 learn");
 
 	}
 
